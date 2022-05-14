@@ -2,9 +2,9 @@
 
 <p> I had to learn jQuery recently for work - Jan 16, 2022</p>
 
-<h2><a href="https://esteecodes.github.io/Learn-jQuery-CodeCademy/3-Feedster/" target="_blank">3 Feedster</a></h2>
-<h2><a href="https://esteecodes.github.io/Learn-jQuery-CodeCademy/4-Web-Safe-Font-Preview/" target="_blank">4 Web Safe Font Preview</a></h2>
-<h2><a href="https://esteecodes.github.io/Learn-jQuery-CodeCademy/5-Gameboard//" target="_blank">5 Gameboard</a></h2>
+<h2><a href="https://esteecodes.github.io/Learn-jQuery-CodeCademy/3-Feedster/" target="_blank">3. Feedster</a></h2>
+<h2><a href="https://esteecodes.github.io/Learn-jQuery-CodeCademy/4-Web-Safe-Font-Preview/" target="_blank">4. Web Safe Font Preview</a></h2>
+<h2><a href="https://esteecodes.github.io/Learn-jQuery-CodeCademy/5-Gameboard//" target="_blank">5. Gameboard</a></h2>
 
 <h3>Connect with me on Social Media ↓</h3>
 <br/>
